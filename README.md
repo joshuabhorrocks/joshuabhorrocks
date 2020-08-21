@@ -1,4 +1,4 @@
-# Hello and welcome to my Github!
+# Hello and Welcome to my Github!
 ## My name is Joshua Horrocks and I'm a Full Stack Web Developer. I trained and studied at Lambda School and have a passion for coding. Front-End Development is where I prefer to spend most of my time but am proficient in all aspects of Web Development!
 
 ## - Web Developer, trained at Lambda School
