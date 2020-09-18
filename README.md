@@ -6,7 +6,7 @@
 ## - Born and raised in Northern Utah, USA
 
 # Skills
-## Proficient in: JavaScript, React, Redux, NodeJS, HTML, CSS, Python, SQLite3, Postgres, API's, Data Structures, etc.
+## Proficient in: JavaScript, React, Redux, NodeJS, HTML, CSS, Python, SQLite3, Postgres, GraphQL, API's, Data Structures, etc.
 
 # Contact
 ## Trying to contact me? Here are all the ways you can reach me!
